@@ -1,11 +1,5 @@
 <div align="center">
-  <svg width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-    <g class="icon-path">
-      <rect x="90" y="20" width="20" height="160" rx="10" />
-      <rect x="90" y="20" width="20" height="160" rx="10" transform="rotate(60 100 100)" />
-      <rect x="90" y="20" width="20" height="160" rx="10" transform="rotate(-60 100 100)" />
-    </g>
-  </svg>
+  <img src="assets/icon.svg"></img>
 
   <h1>Asterisk</h1>
   A lightweight programming language made using C++ and CMake.
